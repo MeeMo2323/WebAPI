@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\VisualStudioProject\webAPI\ONEDaraAPI\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-04-12T03:43:40.0093791Z;True|2022-04-12T10:42:13.4048752+07:00;True|2022-04-12T09:17:46.3784638+07:00;True|2022-04-12T09:17:28.6358878+07:00;True|2022-03-31T08:12:09.9831531+07:00;True|2022-03-31T00:56:01.8769304+07:00;True|2022-03-30T23:58:35.7765608+07:00;</History>
+  </PropertyGroup>
+</Project>
